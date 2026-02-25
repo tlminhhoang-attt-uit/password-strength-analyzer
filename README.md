@@ -49,13 +49,10 @@ Maximum score: **100**
 
 ## ▶ How to Run
 
-### Option 1 – Visual Studio
+Visual Studio
 1. Open `Password_verification.sln`
 2. Select Release x64
 3. Build and Run
-
-### Option 2 – Download Executable
-Download the `.exe` file from the **Releases** section.
 
 ---
 
