@@ -87,5 +87,8 @@ int main() {
 		cout << "Very strong";
 	}
 	cout << "\n\n\n";
+	cin.get();
+	cin.get();
+	cin.get();
 	return 0;
 }
