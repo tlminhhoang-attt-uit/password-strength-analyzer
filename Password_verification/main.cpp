@@ -16,6 +16,7 @@ void displ(const int& score) {
 	cout << "]: " << score << "/100\n";
 }
 int main() {
+	//v2
 	string passw;
 	cout << "=======================================================\n";
 	cout << "||                                                   ||\n";
